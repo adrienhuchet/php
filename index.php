@@ -260,7 +260,6 @@ helloArray($person);
  *
  * => Hello John Doe
  */
-
 //// Déclaration d'un tableau (liste de personnes)
 //$persons = array();
 //
